@@ -1,0 +1,2 @@
+# smb-stage
+staging-environment
